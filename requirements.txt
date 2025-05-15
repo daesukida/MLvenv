@@ -1,0 +1,49 @@
+# Bibliotecas para Machine Learning e Deep Learning
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+tensorflow
+torch
+torchvision
+torchaudio
+xgboost
+lightgbm
+optuna
+
+# NLP (Processamento de Linguagem Natural)
+transformers
+datasets
+nltk
+spacy
+sentence-transformers
+gensim
+textblob
+
+# Arquitetura de Software e Interoperabilidade
+fastapi
+flask
+pydantic
+marshmallow
+protobuf
+grpcio
+grpcio-tools
+requests
+httpx
+websocket-client
+celery
+redis
+pika
+kafka-python
+
+# Web Scraping
+beautifulsoup4
+lxml
+html5lib
+selenium
+scrapy
+parsel
+pyppeteer
+playwright
