@@ -9,7 +9,7 @@ source venv/bin/activate
 
 echo "Instalando bibliotecas do repositório remoto..."
 pip install --upgrade pip
-pip install -r https://raw.githubusercontent.com/usuario/repositorio/main/requirements.txt
+pip install -r https://raw.githubusercontent.com/daesukida/MLvenv/main/requirements.txt
 python -m spacy download en_core_web_sm
 python -m spacy download pt_core_news_sm
 

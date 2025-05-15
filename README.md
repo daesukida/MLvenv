@@ -76,7 +76,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 | **xgboost**       | Algoritmo de ML poderoso para tabelas estruturadas (campeão em competições de dados).                             |
 | **lightgbm**      | Alternativa ao XGBoost, mais leve e rápido. Bom para grandes conjuntos de dados.                                  |
 | **optuna**        | Otimização automática de hiperparâmetros para melhorar modelos sem tentativa-e-erro manual.                       |
-|-------------------|-------------------------------------------------------------------------------------------------------------------|
 
 ---
 
@@ -91,7 +90,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 | **sentence-transformers** | Compare semântica entre frases com embeddings (ex: achar frases parecidas).                               |
 | **gensim**                | Crie modelos de tópicos e embeddings como Word2Vec.                                                       |
 | **textblob**              | API simples para análise de sentimentos, tradução e correção gramatical.                                  |
-|---------------------------|-----------------------------------------------------------------------------------------------------------|
 
 ---
 
@@ -113,7 +111,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 | **redis**             | Banco de dados chave-valor usado para cache ou como backend para Celery.                                      |
 | **pika**              | Cliente para trabalhar com RabbitMQ (fila de mensagens).                                                      |
 | **kafka-python**      | Cliente para Apache Kafka (event streaming distribuído).                                                      |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|
 
 ---
 
@@ -129,7 +126,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 | **parsel**         | Extração de dados com XPath e CSS (usado dentro do Scrapy).                                                      |
 | **pyppeteer**      | Versão Python do Puppeteer (headless Chrome). Bom para scraping de páginas dinâmicas.                            |
 | **playwright**     | Automação moderna de navegadores (substituto robusto para Selenium). Suporta múltiplos navegadores.              |
-|--------------------|------------------------------------------------------------------------------------------------------------------|
 
 ---
 
