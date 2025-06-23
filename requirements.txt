@@ -12,6 +12,8 @@ torchaudio
 xgboost
 lightgbm
 optuna
+pydotplus
+openpyxl
 
 # NLP (Processamento de Linguagem Natural)
 transformers
